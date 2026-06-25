@@ -68,7 +68,9 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=tokyonight"/>
 
 </p>
+
 ---
+
 ## Contato
 
 <p align="center">

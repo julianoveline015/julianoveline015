@@ -46,7 +46,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=tokyonight&count_private=true" />
 
-  <img height="180" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=tokyonight" />
+  <img height="180" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=catppuccin_mocha" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=julianoveline015&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=julianoveline015&theme=catppuccin_mocha"/>
 
 </p>
 
@@ -64,7 +64,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=catppuccin_mocha"/>
 
 </p>
 

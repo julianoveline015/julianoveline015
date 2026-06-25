@@ -22,3 +22,11 @@ Me tornar Desenvolvedora Full Stack.
 ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=tokyonight)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([SEU_LINKEDIN](https://www.linkedin.com/in/julia-noveline-461b08262/))
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:julianovelinebritto@gmail.com)

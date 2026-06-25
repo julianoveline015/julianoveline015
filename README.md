@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="LINK_DA_IMAGEM" width="100%">
+</p>
 # Oie :)
 Eu sou Julia Noveline
 
@@ -80,13 +83,6 @@ Eu sou Julia Noveline
 
 ---
 
-## 🐍 Snake de Contribuições
-
-> Após criar o README, siga o tutorial do repositório abaixo para configurar automaticamente a animação da cobra:
-
-https://github.com/Platane/snk
-
----
 
 ## 📫 Contato
 

@@ -1,19 +1,6 @@
-# 👋 Olá! Eu sou Julia Noveline
-
-🎓 Estudante de Engenharia de Software
-
-💻 Estagiária de TI
-
-📚 Atualmente estudando:
-- C#
-- VB.NET
-- SQL Server
-- Python
-- ASP.NET
-- Engenharia de Software
-
-🚀 Objetivo:
-Me tornar Desenvolvedora Full Stack.
+<img
+src="LINK_DA_SUA_IMAGEM"
+width="220">
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
@@ -25,8 +12,11 @@ Me tornar Desenvolvedora Full Stack.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=tokyonight)
 
+https://github.com/Platane/snk
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([SEU_LINKEDIN](https://www.linkedin.com/in/julia-noveline-461b08262/))
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:julianovelinebritto@gmail.com)
+

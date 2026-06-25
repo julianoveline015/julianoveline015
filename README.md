@@ -1,12 +1,20 @@
+<!-- ========================= BANNER ========================= -->
+
 <p align="center">
-  <img src="LINK_DA_IMAGEM" width="100%">
+  <img src="LINK_DA_SUA_IMAGEM_DE_BANNER" width="100%">
 </p>
-# Oie :)
-Eu sou Julia Noveline
+
+<h1 align="center">✨ Oie, eu sou Julia Noveline! 👋</h1>
+
+<h3 align="center">
+🎓 Estudante de Engenharia de Software • 💻 Desenvolvedora Backend • ☕ Apaixonada por tecnologia
+</h3>
+
+---
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/68386643-5f51-4516-a4ab-78cdcf86fa65" width="220" style="border-radius:50%;">
+<img src="https://github.com/user-attachments/assets/68386643-5f51-4516-a4ab-78cdcf86fa65" width="220">
 
 </div>
 
@@ -20,7 +28,7 @@ Eu sou Julia Noveline
 
 💻 Apaixonada por desenvolvimento de software, banco de dados e soluções backend.
 
-📚 Atualmente estudando:
+🌱 Atualmente estudando:
 
 * C#
 * VB.NET
@@ -29,13 +37,13 @@ Eu sou Julia Noveline
 * Python
 * Engenharia de Software
 
-🚀 Meu objetivo é me tornar uma Desenvolvedora Full Stack, criando soluções eficientes e escaláveis.
+🚀 Buscando evoluir diariamente como desenvolvedora e criar soluções eficientes, intuitivas e escaláveis.
 
 ---
 
 ## 🚀 Tecnologias
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 
@@ -61,39 +69,62 @@ Eu sou Julia Noveline
 
 ---
 
-# 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Streak
+## 🔥 Sequência de Contribuições
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=julianoveline015&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribuições
+
+> Depois de configurar a GitHub Action do Snake, substitua pela imagem gerada.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/julianoveline015/julianoveline015/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
 ---
 
+## 📈 Atividade
 
-## 📫 Contato
+<p align="center">
 
-<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 📫 Vamos nos conectar!
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/julia-noveline-461b08262/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:julianovelinebritto@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
@@ -102,15 +133,19 @@ Eu sou Julia Noveline
 
 ## 🌱 Atualmente
 
-* 📚 Estudando Engenharia de Software
-* 💼 Estagiando na área de TI
-* 💻 Desenvolvendo projetos em C#, VB.NET e ASP.NET
-* 🚀 Aprimorando conhecimentos em SQL Server e Python
+* 📚 Estudando Engenharia de Software.
+* 💼 Estagiando na área de Tecnologia da Informação.
+* 💻 Desenvolvendo projetos em C#, VB.NET e ASP.NET Web Forms.
+* 🗄️ Aprimorando conhecimentos em SQL Server.
+* 🐍 Estudando Python e automação.
+* 🚀 Construindo um portfólio sólido no GitHub.
 
 ---
 
 <div align="center">
 
-### ✨ Obrigada por visitar meu perfil! ✨
+### 💜 "A melhor forma de aprender é construindo."
+
+⭐ Obrigada por visitar meu perfil!
 
 </div>

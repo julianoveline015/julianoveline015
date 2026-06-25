@@ -9,9 +9,9 @@
 
 ## Sobre Mim
 
-Sou estudante de **Engenharia de Software** e estagiária na área de Tecnologia da Informação.
+Sou estudante de Engenharia de Software e estagiária na área de Tecnologia da Informação, atuando no desenvolvimento e manutenção de sistemas corporativos.
 
-Tenho interesse em desenvolvimento de software, banco de dados e soluções backend utilizando tecnologias Microsoft.
+Trabalho participando da implementação de novas funcionalidades, correção de bugs, desenvolvimento de consultas SQL, procedures e integração entre aplicação e banco de dados. Busco evoluir continuamente em desenvolvimento backend, arquitetura de software e boas práticas de engenharia de software.
 
 Atualmente estou aprimorando meus conhecimentos em:
 

@@ -55,7 +55,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=julianoveline015&theme=aura"/>
+<img src="https://streak-stats.demolab.com?user=julianoveline015&theme=tokyonight"/>
 
 </p>
 
@@ -65,9 +65,10 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=aura"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=tokyonight"/>
 
 </p>
+---
 ## Contato
 
 <p align="center">

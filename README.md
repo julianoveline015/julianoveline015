@@ -24,9 +24,9 @@ Atualmente estou aprimorando meus conhecimentos em:
 
 Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta qualidade, buscando constante evolução técnica e profissional.
 
+---
 
-
-<p align="center"> ## Tecnologias </p>
+## Tecnologias 
 
 <p align="center">
 

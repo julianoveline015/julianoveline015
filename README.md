@@ -2,7 +2,7 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Banner Julia Noveline">
+  <img src="./banner-git.png" width="100%" alt="Banner Julia Noveline">
 </p>
 
 ---

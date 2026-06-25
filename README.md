@@ -7,7 +7,7 @@
 
 ---
 
-## Sobre Mim
+<h2 align="center">Sobre Mim</h2>
 
 Sou estudante de Engenharia de Software e estagiária na área de Tecnologia da Informação, com experiência no desenvolvimento e manutenção de sistemas corporativos baseados em tecnologias Microsoft.
 
@@ -27,7 +27,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 ---
 
-## Tecnologias 
+<h2 align="center">Tecnologias</h2>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/> 
@@ -43,7 +43,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 ---
 
-## Sequência de Contribuições
+<h2 align="center">Estatísticas do GitHub</h2>
 
 <p align="center">
 
@@ -53,15 +53,14 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 ---
 
-## Gráfico de Atividade
-
+<h2 align="center">Sequência de Contribuições</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=tokyo-night"/>
 </p>
 
 ---
 
-## Estatísticas do GitHub
+<h2 align="center">Estatísticas do GitHub</h2>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=catppuccin_mocha&count_private=true"/>
@@ -71,7 +70,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 
 
-## Contato
+<h2 align="center">Contato</h2>
 ---
 <p align="center">
 
@@ -87,7 +86,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 ---
 
-## Em Desenvolvimento
+<h2 align="center">Em Desenvolvimento</h2>
 
 - Engenharia de Software
 - Desenvolvimento Backend com C# e .NET

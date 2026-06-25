@@ -5,7 +5,7 @@
   <img src="./banner-git.png" width="100%" alt="Banner Julia Noveline">
 </p>
 
----
+
 
 ## Sobre Mim
 
@@ -24,7 +24,7 @@ Atualmente estou aprimorando meus conhecimentos em:
 
 Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta qualidade, buscando constante evolução técnica e profissional.
 
----
+
 
 ## Tecnologias
 
@@ -48,16 +48,16 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 </p>
 
----
+
 
 ## Estatísticas do GitHub
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=tokyonight&count_private=true" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=tokyonight" />
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=tokyonight" />
 </p>
----
+
 
 ## Sequência de Contribuições
 
@@ -67,7 +67,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 </p>
 
----
+
 
 ## Gráfico de Atividade
 
@@ -77,7 +77,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 </p>
 
----
+
 
 ## Contato
 
@@ -93,7 +93,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 </p>
 
----
+
 
 ## Em Desenvolvimento
 
@@ -104,7 +104,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 - Python
 - Boas práticas de desenvolvimento de software
 
----
+
 
 <div align="center">
 

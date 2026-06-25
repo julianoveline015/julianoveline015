@@ -71,8 +71,6 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/julianoveline015/julianoveline015/output/github-contribution-grid-snake-dark.svg">
-
 </p>
 
 ---

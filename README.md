@@ -90,8 +90,8 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:julianovelinebritto@gmail.com">
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:julianovelinebritto@gmail.com)
+<a href="mailto:julianovelinebritto@gmail.com"> 
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> 
 </a>
 
 </p>

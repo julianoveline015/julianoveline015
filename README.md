@@ -2,19 +2,7 @@
 
 <p align="center">
   <img width="1942" height="809" alt="banner" src="banner.png" />
-" />
-" />
-" />
-" width="100%">
 </p>
-
-<h1 align="center">✨ Oie, eu sou Julia Noveline! 👋</h1>
-
-<h3 align="center">
-🎓 Estudante de Engenharia de Software • 💻 Desenvolvedora Backend • ☕ Apaixonada por tecnologia
-</h3>
-
----
 
 <div align="center">
 

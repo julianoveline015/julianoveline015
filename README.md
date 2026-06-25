@@ -9,10 +9,11 @@
 
 ## Sobre Mim
 
-Sou estudante de Engenharia de Software e estagiária na área de Tecnologia da Informação, atuando no desenvolvimento e manutenção de sistemas corporativos.
+Sou estudante de Engenharia de Software e estagiária na área de Tecnologia da Informação, com experiência no desenvolvimento e manutenção de sistemas corporativos baseados em tecnologias Microsoft.
 
-Trabalho participando da implementação de novas funcionalidades, correção de bugs, desenvolvimento de consultas SQL, procedures e integração entre aplicação e banco de dados. Busco evoluir continuamente em desenvolvimento backend, arquitetura de software e boas práticas de engenharia de software.
+Atuo na implementação de novas funcionalidades, correção de defeitos, desenvolvimento de consultas SQL, procedures e manutenção de aplicações ASP.NET Web Forms, colaborando na evolução contínua de sistemas utilizados em ambiente corporativo.
 
+Tenho interesse em desenvolvimento backend, arquitetura de software, bancos de dados e boas práticas de engenharia de software.
 Atualmente estou aprimorando meus conhecimentos em:
 
 - C#
@@ -39,15 +40,6 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
 </p>
 
----
-
-## Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=catppuccin_mocha&count_private=true"/>
-
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=catppuccin_mocha"/>
-</p>
 
 ---
 
@@ -66,6 +58,17 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=tokyo-night"/>
 </p>
+
+---
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=catppuccin_mocha&count_private=true"/>
+
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=catppuccin_mocha"/>
+</p>
+
 ---
 
 ## Contato
@@ -91,7 +94,6 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 - ASP.NET Web Forms
 - SQL Server
 - Python
-- Boas práticas de desenvolvimento de software
 
 ---
 

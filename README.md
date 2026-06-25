@@ -28,24 +28,15 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 ## Tecnologias 
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=csharp&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/VB.NET-FFFFFF?style=for-the-badge&logo=.net&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/ASP.NET-FFFFFF?style=for-the-badge&logo=dotnet&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/.NET-FFFFFF?style=for-the-badge&logo=dotnet&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/SQL%20Server-FFFFFF?style=for-the-badge&logo=microsoftsqlserver&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
-
+<p align="center"> 
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
 </p>
 
 ---

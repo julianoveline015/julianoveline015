@@ -91,7 +91,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 </a>
 
 <a href="mailto:julianovelinebritto@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:julianovelinebritto@gmail.com)
 </a>
 
 </p>

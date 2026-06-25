@@ -71,7 +71,8 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 
 <h2 align="center">Contato</h2>
----
+
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/julia-noveline-461b08262/"> 

@@ -1,4 +1,5 @@
-# 👋 Olá! Eu sou Julia Noveline
+# Oie :)
+Eu sou Julia Noveline
 
 <div align="center">
 

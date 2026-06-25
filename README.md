@@ -26,7 +26,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 
 
-<p align="center"> Tecnologias </p>
+<p align="center"> ## Tecnologias </p>
 
 <p align="center">
 

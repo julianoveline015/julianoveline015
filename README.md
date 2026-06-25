@@ -64,11 +64,8 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 ## Gráfico de Atividade
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=aura"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=tokyo-night"/>
 </p>
-
 ---
 
 ## Contato

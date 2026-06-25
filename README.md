@@ -8,7 +8,6 @@
 ---
 
 <h2 align="center">
-  <img src="https://img.icons8.com/ios-filled/24/000000/user.png" width="22">
   Sobre Mim
 </h2>
 

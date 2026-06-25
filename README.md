@@ -1,7 +1,8 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="<img width="1942" height="809" alt="image" src="<img width="1942" height="809" alt="ChatGPT Image 25 de jun  de 2026, 11_00_00" src="https://github.com/user-attachments/assets/de9b8ef1-e7a0-46f3-9066-63c54784c4fb" />
+  <img src="<img width="1942" height="809" alt="banner" src="https://github.com/user-attachments/assets/6a31dc2f-9899-4df9-bcc2-750073301d55" />
+" />
 " />
 " width="100%">
 </p>

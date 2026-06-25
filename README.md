@@ -62,20 +62,17 @@
 </p>
 
 ---
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-
-</p>
+# 🔥 GitHub Streak
 
 <p align="center">
+
+<img src="https://streak-stats.demolab.com?user=julianoveline015&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📈 Atividade
+## 📈  Gráfico de Contribuições
 
 <p align="center">
 

@@ -1,7 +1,8 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5a0790c4-8986-45b6-8f66-107a155c139a" width="100%">
+  <img src="<img width="1942" height="809" alt="image" src="https://github.com/user-attachments/assets/7f66e5de-28f5-4dbe-a7b0-0c0646e79c76" />
+" width="100%">
 </p>
 
 <h1 align="center">✨ Oie, eu sou Julia Noveline! 👋</h1>

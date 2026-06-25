@@ -44,12 +44,13 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=aura&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=aura&count_private=true"/>
 
-  <img height="180" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=aura" />
+  <img height="180" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=aura"/>
 </p>
 
 ---
+
 ## Sequência de Contribuições
 
 <p align="center">
@@ -64,12 +65,9 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=aura"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=tokyo-night"/>
 
 </p>
-
----
-
 ## Contato
 
 <p align="center">

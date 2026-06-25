@@ -103,8 +103,6 @@ Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escal�
 
 <i>"Aprender continuamente é a base para construir soluções de qualidade."</i>
 
-<br><br>
-
 <i>"Queime os barcos."</i>
 
 </div>

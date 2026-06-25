@@ -73,12 +73,6 @@
 <img src="https://streak-stats.demolab.com?user=julianoveline015&theme=tokyonight"/>
 </p>
 
----
-
-## 🐍 Contribuições
-
-> Depois de configurar a GitHub Action do Snake, substitua pela imagem gerada.
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/julianoveline015/julianoveline015/output/github-contribution-grid-snake-dark.svg">

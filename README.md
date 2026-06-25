@@ -97,6 +97,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 <div align="center">
 
-*"Aprender continuamente é a base para construir soluções de qualidade."*
+*"Aprender continuamente é a base para construir soluções de qualidade. 
+                          Queime os barcos"*
 
 </div>

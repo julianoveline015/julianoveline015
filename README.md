@@ -7,7 +7,10 @@
 
 ---
 
-<h2 align="center">Sobre Mim</h2>
+<h2 align="center">
+  <img src="https://img.icons8.com/ios-filled/24/000000/user.png" width="22">
+  Sobre Mim
+</h2>
 
 Sou estudante de Engenharia de Software e estagiária na área de Tecnologia da Informação, com experiência no desenvolvimento e manutenção de sistemas corporativos baseados em tecnologias Microsoft.
 

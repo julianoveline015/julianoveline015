@@ -84,15 +84,6 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 
 </p>
 
----
-
-<h2 align="center">Em Desenvolvimento</h2>
-
-- Engenharia de Software
-- Desenvolvimento Backend com C# e .NET
-- ASP.NET Web Forms
-- SQL Server
-- Python
 
 ---
 

@@ -4,12 +4,6 @@
   <img width="1942" height="809" alt="banner" src="banner.png" />
 </p>
 
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/68386643-5f51-4516-a4ab-78cdcf86fa65" width="220">
-
-</div>
-
 ---
 
 ## 💜 Sobre mim

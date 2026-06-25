@@ -1,33 +1,32 @@
+
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img width="1942" height="809" alt="banner" src="banner.png" />
+  <img src="./banner.png" width="100%" alt="Banner Julia Noveline">
 </p>
 
 ---
 
-## 💜 Sobre mim
+## Sobre Mim
 
-🎓 Estudante de **Engenharia de Software**
+Sou estudante de **Engenharia de Software** e estagiária na área de Tecnologia da Informação.
 
-💼 Estagiária de Tecnologia da Informação
+Tenho interesse em desenvolvimento de software, banco de dados e soluções backend utilizando tecnologias Microsoft.
 
-💻 Apaixonada por desenvolvimento de software, banco de dados e soluções backend.
+Atualmente estou aprimorando meus conhecimentos em:
 
-🌱 Atualmente estudando:
+- C#
+- VB.NET
+- ASP.NET Web Forms
+- SQL Server
+- Python
+- Engenharia de Software
 
-* C#
-* VB.NET
-* ASP.NET Web Forms
-* SQL Server
-* Python
-* Engenharia de Software
-
-🚀 Buscando evoluir diariamente como desenvolvedora e criar soluções eficientes, intuitivas e escaláveis.
+Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta qualidade, buscando constante evolução técnica e profissional.
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <p align="center">
 
@@ -51,18 +50,19 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
-# 🔥 GitHub Streak
+
+## Sequência de Contribuições
 
 <p align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 📈  Gráfico de Contribuições
+## Gráfico de Atividade
 
 <p align="center">
 
@@ -82,41 +82,36 @@
 
 ---
 
-## 📫 Vamos nos conectar!
+## Contato
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/julia-noveline-461b08262/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="mailto:julianovelinebritto@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 </p>
 
 ---
 
-## 🌱 Atualmente
+## Em Desenvolvimento
 
-* 📚 Estudando Engenharia de Software.
-* 💼 Estagiando na área de Tecnologia da Informação.
-* 💻 Desenvolvendo projetos em C#, VB.NET e ASP.NET Web Forms.
-* 🗄️ Aprimorando conhecimentos em SQL Server.
-* 🐍 Estudando Python e automação.
-* 🚀 Construindo um portfólio sólido no GitHub.
+- Engenharia de Software
+- Desenvolvimento Backend com C# e .NET
+- ASP.NET Web Forms
+- SQL Server
+- Python
+- Boas práticas de desenvolvimento de software
 
 ---
 
 <div align="center">
 
-### 💜 "A melhor forma de aprender é construindo."
-
-⭐ Obrigada por visitar meu perfil!
+*"Aprender continuamente é a base para construir soluções de qualidade."*
 
 </div>
+```

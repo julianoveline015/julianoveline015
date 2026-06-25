@@ -16,7 +16,7 @@ https://github.com/Platane/snk
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([SEU_LINKEDIN](https://www.linkedin.com/in/julia-noveline-461b08262/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/julia-noveline-461b08262/))
 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:julianovelinebritto@gmail.com)
 

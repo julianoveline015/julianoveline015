@@ -1,5 +1,6 @@
 <img
-src="LINK_DA_SUA_IMAGEM"
+src="<img width="960" height="1280" alt="WhatsApp Image 2026-06-25 at 10 37 43" src="https://github.com/user-attachments/assets/68386643-5f51-4516-a4ab-78cdcf86fa65" />
+"
 width="220">
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)

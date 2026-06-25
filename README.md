@@ -99,9 +99,6 @@ Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escal�
 
 ---
 
-<div align="center">
-
-*"Queime os barcos."*
-
+<div align="center"> *"Aprender continuamente é a base para construir soluções de qualidade."* 
+  <br> *"Queime os barcos !"* 
 </div>
-```

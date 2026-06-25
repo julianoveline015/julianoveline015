@@ -69,7 +69,7 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=catppuccin_mocha"/>
 </p>
 
----
+
 
 ## Contato
 

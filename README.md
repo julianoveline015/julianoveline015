@@ -114,4 +114,3 @@ Meu objetivo é desenvolver aplicações eficientes, escaláveis e de alta quali
 *"Aprender continuamente é a base para construir soluções de qualidade."*
 
 </div>
-```

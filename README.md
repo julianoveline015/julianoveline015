@@ -1,7 +1,8 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="<img width="1942" height="809" alt="banner" src="https://github.com/user-attachments/banner.png" />
+  <img width="1942" height="809" alt="banner" src="https://github.com/user-attachments/assets/0badc4d2-5fdd-4dae-baa6-736c92c4ca26" />
+" />
 " />
 " />
 " width="100%">

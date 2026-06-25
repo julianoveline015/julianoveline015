@@ -1,7 +1,8 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="LINK_DA_SUA_IMAGEM_DE_BANNER" width="100%">
+  <img src="<img width="2912" height="1632" alt="wheat" src="https://github.com/user-attachments/assets/5a0790c4-8986-45b6-8f66-107a155c139a" />
+" width="100%">
 </p>
 
 <h1 align="center">✨ Oie, eu sou Julia Noveline! 👋</h1>

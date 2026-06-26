@@ -12,7 +12,7 @@ Sou estudante de **Engenharia de Software** e estagiária na área de **Tecnolog
 
 Participo da implementação de novas funcionalidades, correção de defeitos, desenvolvimento de consultas SQL, procedures e manutenção de aplicações **ASP.NET Web Forms**, contribuindo para a evolução contínua de sistemas utilizados em ambiente corporativo.
 
-Tenho interesse em **desenvolvimento backend**, **arquitetura de software**, **bancos de dados** e **boas práticas de engenharia de software**.
+Tenho interesse em **desenvolvimento fullstack**, **arquitetura de software**, e **boas práticas de engenharia de software**.
 
 Atualmente estou aprofundando meus conhecimentos em:
 
@@ -22,6 +22,11 @@ Atualmente estou aprofundando meus conhecimentos em:
 - SQL Server
 - Python
 - Engenharia de Software
+- AWS
+- HTML
+- CSS
+- JavaScript
+- BootStrap
 
 Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escaláveis e de alta qualidade, aprimorando continuamente minhas habilidades técnicas.
 

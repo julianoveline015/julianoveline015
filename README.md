@@ -56,18 +56,6 @@ Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escal�
 
 ---
 
-<h2 align="center">Estatísticas</h2>
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=julianoveline015&show_icons=true&theme=catppuccin_mocha&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoveline015&layout=compact&theme=catppuccin_mocha"/>
-
-</p>
-
----
-
 <h2 align="center">Projetos em Destaque</h2>
 
 <table align="center">
@@ -80,7 +68,7 @@ Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escal�
 
 Site utilizado para gerenciamento uma academia fictícia de jiu jitsu, mostrando os serviços oferecidos pela mesma.
 
-<a href="https://github.com/julianoveline015/Sirev.git">Ver Projeto</a>
+<a href="julianoveline015/Sirev.git">Ver Projeto</a>
 
 </td>
 
@@ -92,7 +80,7 @@ Java • MySQL • JavaScript • SprinBoot
 
 Este projeto tem como objetivo demonstrar a estrutura básica de uma aplicação Spring Boot CRUD
 
-<a href="https://github.com/julianoveline015/Agenda-de-contatos.git">Ver Projeto</a>
+<a href="julianoveline015/Agenda-de-contatos.git">Ver Projeto</a>
 
 </td>
 </tr>

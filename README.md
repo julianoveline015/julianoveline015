@@ -80,7 +80,7 @@ Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escal�
 
 Site utilizado para gerenciamento uma academia fictícia de jiu jitsu, mostrando os serviços oferecidos pela mesma.
 
-<a href="(https://github.com/julianoveline015/Sirev.git)">Ver Projeto</a>
+<a href="https://github.com/julianoveline015/Sirev.git">Ver Projeto</a>
 
 </td>
 
@@ -92,7 +92,7 @@ Java • MySQL • JavaScript • SprinBoot
 
 Este projeto tem como objetivo demonstrar a estrutura básica de uma aplicação Spring Boot CRUD
 
-<a href="(https://github.com/julianoveline015/Agenda-de-contatos.git)">Ver Projeto</a>
+<a href="https://github.com/julianoveline015/Agenda-de-contatos.git">Ver Projeto</a>
 
 </td>
 </tr>

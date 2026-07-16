@@ -68,6 +68,38 @@ Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escal�
 
 ---
 
+<h2 align="center">Projetos em Destaque</h2>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### Sistema de Cadastro de Motoristas
+
+ASP.NET Web Forms • VB.NET • SQL Server
+
+Sistema utilizado para gerenciamento de motoristas, documentos e integração com banco de dados.
+
+<a href="LINK_DO_REPOSITORIO">Ver Projeto</a>
+
+</td>
+
+<td width="50%">
+
+### Relatório Financeiro
+
+VB.NET • SQL Server • EPPlus
+
+Geração de relatórios financeiros em Excel utilizando procedures e exportação automatizada.
+
+<a href="LINK_DO_REPOSITORIO">Ver Projeto</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 <h2 align="center">Sequência de Contribuições</h2>
 
 <p align="center">

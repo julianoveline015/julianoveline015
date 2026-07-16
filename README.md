@@ -58,31 +58,45 @@ Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escal�
 
 <h2 align="center">Projetos em Destaque</h2>
 
-<table align="center">
+<table>
 <tr>
-<td width="50%">
 
-### Site de academia
+<td width="50%" valign="top">
 
- Bootstrap • JavaScript • CSS • SQL Server • Dockerfile • HTML
+### 🥋 Sirev Academy
 
-Site utilizado para gerenciamento uma academia fictícia de jiu jitsu, mostrando os serviços oferecidos pela mesma.
+Sistema web desenvolvido para uma academia fictícia de artes marciais, com foco na apresentação das modalidades, estrutura e serviços oferecidos.
 
-<a href="julianoveline015/Sirev.git">Ver Projeto</a>
+**Tecnologias**
+
+`HTML5` `CSS3` `Bootstrap` `JavaScript` `SQL Server` `Docker`
+
+<br>
+
+<a href="https://github.com/julianoveline015/Sirev">
+<img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📒 Agenda de Contatos
+
+Aplicação CRUD desenvolvida com Spring Boot para gerenciamento de contatos, utilizando arquitetura em camadas e integração com banco de dados.
+
+**Tecnologias**
+
+`Java` `Spring Boot` `MySQL`
+
+<br>
+
+<a href="https://github.com/julianoveline015/Agenda-de-contatos">
+<img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="50%">
-
-### Sistema de contatos
-
-Java • MySQL • JavaScript • SprinBoot
-
-Este projeto tem como objetivo demonstrar a estrutura básica de uma aplicação Spring Boot CRUD
-
-<a href="julianoveline015/Agenda-de-contatos.git">Ver Projeto</a>
-
-</td>
 </tr>
 </table>
 

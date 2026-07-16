@@ -74,25 +74,25 @@ Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escal�
 <tr>
 <td width="50%">
 
-### Sistema de Cadastro de Motoristas
+### Site de academia
 
-ASP.NET Web Forms • VB.NET • SQL Server
+ Bootstrap • JavaScript • CSS • SQL Server • Dockerfile • HTML
 
-Sistema utilizado para gerenciamento de motoristas, documentos e integração com banco de dados.
+Site utilizado para gerenciamento uma academia fictícia de jiu jitsu, mostrando os serviços oferecidos pela mesma.
 
-<a href="LINK_DO_REPOSITORIO">Ver Projeto</a>
+<a href="(https://github.com/julianoveline015/Sirev.git)">Ver Projeto</a>
 
 </td>
 
 <td width="50%">
 
-### Relatório Financeiro
+### Sistema de contatos
 
-VB.NET • SQL Server • EPPlus
+Java • MySQL • JavaScript • SprinBoot
 
-Geração de relatórios financeiros em Excel utilizando procedures e exportação automatizada.
+Este projeto tem como objetivo demonstrar a estrutura básica de uma aplicação Spring Boot CRUD
 
-<a href="LINK_DO_REPOSITORIO">Ver Projeto</a>
+<a href="(https://github.com/julianoveline015/Agenda-de-contatos.git)">Ver Projeto</a>
 
 </td>
 </tr>

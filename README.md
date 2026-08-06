@@ -142,6 +142,6 @@ Aplicação CRUD desenvolvida com Spring Boot para gerenciamento de contatos, ut
 
 <i>"Aprender continuamente é a base para construir soluções de qualidade."</i>
 
-<i>"Queime os barcos!"</i>
+<i>"Queimem os barcos!"</i>
 
 </div>

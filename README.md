@@ -34,24 +34,14 @@ Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escal�
 
 <h2 align="center">Tecnologias</h2>
 
-<p align="center">
+## My Skills
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,python,fastapi,html,css,sass,js,php,kotlin,androidstudio,swift,mongodb" />
+</p>
 
-<img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,aws,gcp,azure,ubuntu,windows,vscode,figma,selenium" />
 </p>
 
 ---

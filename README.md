@@ -34,16 +34,14 @@ Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escal�
 
 <h2 align="center">Tecnologias</h2>
 
-## My Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,python,fastapi,java,cs,dotnet,html,css,sass,js,php,kotlin,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,html,css,js,bootstrap" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,docker,aws,azure,gcp,vscode,visualstudio,figma,selenium" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,docker,aws,azure,vscode,visualstudio" />
 </p>
-
 <h2 align="center">Projetos em Destaque</h2>
 
 <table>

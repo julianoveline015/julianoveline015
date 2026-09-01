@@ -35,12 +35,12 @@ Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escal�
 <h2 align="center">Tecnologias</h2>
 
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,html,css,js,bootstrap" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,,aws,,vscode,visualstudio" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,aws,vscode,visualstudio" />
 </p>
 <h2 align="center">Projetos em Destaque</h2>
 

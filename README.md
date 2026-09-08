@@ -98,17 +98,6 @@ Aplicação CRUD desenvolvida com Spring Boot para gerenciamento de contatos, ut
 
 ---
 
-<h2 align="center">Atividade no GitHub</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/julianoveline015/julianoveline015/output/activity-graph.svg"
-    alt="Gráfico de atividade do GitHub"/>
-</p>
-
-
----
-
 <h2 align="center">Contato</h2>
 
 <p align="center">

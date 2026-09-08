@@ -101,11 +101,12 @@ Aplicação CRUD desenvolvida com Spring Boot para gerenciamento de contatos, ut
 <h2 align="center">Atividade no GitHub</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=julianoveline015&theme=tokyo-night&hide_border=true"
-    alt="Gráfico de atividade do GitHub"
+  <img
+    src="./profile/activity.svg"
+    alt="Atividade no GitHub"
   />
 </p>
+
 ---
 
 <h2 align="center">Contato</h2>

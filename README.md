@@ -42,6 +42,9 @@ Meu objetivo é contribuir para o desenvolvimento de soluções robustas, escal�
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,aws,vscode,visualstudio" />
 </p>
+
+---
+
 <h2 align="center">Projetos em Destaque</h2>
 
 <table>
